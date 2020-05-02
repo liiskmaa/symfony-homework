@@ -19,4 +19,4 @@ Excluded from Unit Tests:
 - app/Command/OutputCommand - It just reuses the methods from tested classes and methods
 
 ### Output
-Added command `homework:get-output` that displays the output of the Generators. Rot13Transformer is used in the random string generator. As the random array generator is using random string generator it does not have to use the Rot13Transformer class.
+Added command `homework:get-output` that displays the output of the generators. Rot13Transformer is used in the random string generator. As the random array generator is using random string generator it does not have to use the Rot13Transformer class.
