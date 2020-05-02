@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ### Symfony ###
+=======
+>>>>>>> 6483d7251f1900d6449070c0e676616293470f43
 # Cache and logs (Symfony2)
 /app/cache/*
 /app/logs/*
